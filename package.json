@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "Shreyas Kharbanda",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "unirest": "^0.6.0"
+  }
 }
