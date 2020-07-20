@@ -3,7 +3,7 @@ A Command-Line URL Shortener Utility Tool.
 
 # Tech Stack
 This utility tool is written is JavaScript using Node.js. The application utilizes the Shrtcode API to shorten URLs and
-Prompt-Sync package to parse command line arguements
+the Prompt-Sync package to parse command line arguements
 
 # Setup
 ```
